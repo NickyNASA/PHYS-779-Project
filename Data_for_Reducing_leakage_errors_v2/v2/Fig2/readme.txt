@@ -1,1 +1,0 @@
-See the notebook code under the folder /Code_to_plot_FAST_and_HD_DRAG_pulses to plot FAST DRAG and HD DRAG pulse shapes.
